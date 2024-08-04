@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: lightgreen;
+}
+
+.main_content {
+    width: 500px;
+    text-align: center;
+    box-shadow: 0 0 20px grey;
+}
+
+.top_section {
+    padding: 10px;
+    background-color: blue;
+}
+
+.top_section img {
+    border-radius: 50%;
+}
+
+.top_section p {
+    color: white;
+}
+
+.middle_section {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.middle_section img {
+    width: 30px;
+    height: 30px;
+}
+
+.bottom_section {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.footer_section {
+    background-color: orange;
+}
